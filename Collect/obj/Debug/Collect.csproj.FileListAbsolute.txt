@@ -1,0 +1,6 @@
+D:\Проекты\Collect\Collect\bin\Debug\Collect.dll
+D:\Проекты\Collect\Collect\bin\Debug\Collect.pdb
+D:\Проекты\Collect\Collect\obj\Debug\Collect.csproj.AssemblyReference.cache
+D:\Проекты\Collect\Collect\obj\Debug\Collect.csproj.CoreCompileInputs.cache
+D:\Проекты\Collect\Collect\obj\Debug\Collect.dll
+D:\Проекты\Collect\Collect\obj\Debug\Collect.pdb
